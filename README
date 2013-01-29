@@ -1,0 +1,7 @@
+dev_2
+2011/03/13
+- Pygame ( SDL)
+- MVC design
+- Double model:
+-- DOFModel
+-- ViewModel (model for view itself)
